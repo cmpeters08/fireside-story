@@ -4,9 +4,20 @@ body {
   background-image: url(https://68.media.tumblr.com/96fd91dd69d8cb64c984791c771089b1/tumblr_nvt3fdAOlG1qlizkxo1_500.jpg);
   font-family: 'Josefin Sans', sans-serif;
   font-size: 150%;
-  margin: 5em 25%;
-}
 
+}
+#wrapper{
+  align: center;
+  background-color: #333;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  padding: 15px;
+  width: 50%;
+  height: 400%;
+}
 h1 {
   text-align: center;
 }
